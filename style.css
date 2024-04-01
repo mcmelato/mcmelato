@@ -17,6 +17,8 @@ body {
 .cabecalho-imagem{
     width: 50%;
     background-color: #ffffff;
+    justify-content: space-around;
+    margin: 0 40000px;
 }
 
 .cabecalho-lista-item{
